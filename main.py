@@ -10,3 +10,16 @@
 # Ссылка на файл.
 # https://drive.google.com/drive/folders/1FpCRKyCTgAuWS9h2O0tWmJZ5erTPYxQ1?usp=sharing
 
+## main стартовый модуль проекта
+
+# import <pandas>
+
+def main():
+  # TODO - сделай вызов функцией из functions
+  pass
+  
+# инициализированный скрипт
+ 
+ if __name__ == "__main__":
+   main()
+    
